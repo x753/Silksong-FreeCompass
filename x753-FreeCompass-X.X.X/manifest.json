@@ -1,0 +1,9 @@
+{
+    "name": "FreeCompass",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/x753/Silksong-FreeCompass",
+    "description": "The compass costs 0 and doesn't need to be equipped to use it. Configurable.",
+    "dependencies": [
+        "BepInEx-BepInExPack_Silksong-5.4.2303"
+    ]
+}

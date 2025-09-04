@@ -1,0 +1,1 @@
+Makes the compass free and active even if it isn't purchased or equipped. Configurable.
